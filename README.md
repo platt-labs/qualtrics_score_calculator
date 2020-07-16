@@ -4,7 +4,7 @@ This library was initially built for Platt Labs and contains a series of functio
 ## Initializing the Toolbox
 Step 1: Clone the toolbox using git commandline or download and unzip using the GUI.
 
-Step 2: initialize the toolbox by specifying the path as mentioned above, or locally specify the path by adding:
+Step 2: initialize the toolbox by [setting the path globally](https://www.mathworks.com/help/matlab/matlab_env/add-remove-or-reorder-folders-on-the-search-path.html), or locally specify the path by adding:
 ```Matlab
 addpath('\Your\...\path\...\to\...\qualtrics_score_calculator');
 ```
