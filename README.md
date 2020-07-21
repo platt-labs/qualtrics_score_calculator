@@ -1,5 +1,5 @@
 # Qualtrics Score Calculator
-This library was initially built for Platt Labs and contains a series of functions calculating the scores of various gold-standard behavioral questionaires. These were mostly collected as self-reports using the qualtrics platform and the results were exported CSV-files.
+This library was initially built for Platt Labs and contains a series of functions calculating the scores of various behavioral questionaires. These were mostly collected as self-reports using the qualtrics platform and the results were exported CSV-files.
 
 ## Initializing the Toolbox
 Step 1: Clone the toolbox using git commandline or download and unzip using the GUI.
